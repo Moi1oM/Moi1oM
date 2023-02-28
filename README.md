@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac
-whoy259](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{whoy259})
+whoy259](http://mazassumnida.wtf/api/v2/generate_badge?boj={whoy259})](https://solved.ac/{whoy259})
 
 <!--
 **Moi1oM/Moi1oM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

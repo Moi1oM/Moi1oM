@@ -1,7 +1,12 @@
-### Hi there 👋
+### 안녕하세요 👋 전성운입니다.
 
-[![Solved.ac
-whoy259](http://mazassumnida.wtf/api/v2/generate_badge?boj={whoy259})](https://solved.ac/{whoy259})
+#### 평범하게 개발공부하는 대학생입니다!
+
+![Moi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moi1oM&show_icons=true&bg_color=00000000)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whoy259)](https://solved.ac/whoy259/)
+
+
 
 <!--
 **Moi1oM/Moi1oM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

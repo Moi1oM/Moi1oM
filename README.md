@@ -1,6 +1,6 @@
 ### 안녕하세요 👋 전성운입니다.
 
-#### 평범하게 개발공부하는 대학생입니다!
+#### 개발공부하는 대학생입니다!
 
 ![Moi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moi1oM&show_icons=true&bg_color=00000000)
 

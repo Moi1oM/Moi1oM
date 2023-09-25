@@ -1,8 +1,7 @@
-### 안녕하세요 👋 전성운입니다.
+## 안녕하세요 👋 전성운입니다.
 
-#### 개발공부하는 대학생입니다!
 
-[2만스타 레포 PR 후기](https://devmoi.tistory.com/3)
+### [2만스타 레포 PR 후기](https://devmoi.tistory.com/3)
 
 
 

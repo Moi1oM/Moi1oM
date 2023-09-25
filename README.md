@@ -2,7 +2,9 @@
 
 #### 개발공부하는 대학생입니다!
 
-![Moi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moi1oM&show_icons=true&bg_color=00000000)
+[2만스타 레포 PR 후기](https://devmoi.tistory.com/3)
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whoy259)](https://solved.ac/whoy259/)
 

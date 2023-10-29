@@ -3,6 +3,7 @@
 
 ### [2만스타 레포 PR 후기](https://devmoi.tistory.com/3)
 
+https://github.com/jerryjliu/llama_index/pull/7103
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whoy259)](https://solved.ac/whoy259/)

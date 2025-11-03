@@ -1,11 +1,19 @@
 ## 안녕하세요 👋 전성운입니다.
+CPO of Thermit.io
 
+### Open Source Contribute
 https://github.com/jerryjliu/llama_index/pull/7103
 
+### Phone
++82 10 3348 7962
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whoy259)](https://solved.ac/whoy259/)
+### Contact
+hcloud0806@gmail.com
 
+csw@thermit.io
 
+### Developing
+https://creazy.app/ko
 
 <!--
 **Moi1oM/Moi1oM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

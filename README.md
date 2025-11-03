@@ -1,4 +1,5 @@
-## 안녕하세요 👋 전성운입니다.
+## Hi I'm Sungwun Cheon.
+
 CPO of Thermit.io
 
 ### Open Source Contribute
